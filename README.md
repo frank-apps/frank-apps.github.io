@@ -6,3 +6,4 @@ frank-apps 的根網站，只放 [`app-ads.txt`](https://frank-apps.github.io/ap
 
 - 一次叫車（`com.frank.rideonce.app`）— https://frank-apps.github.io/rideonce-website/
 - GO IV 計算 — https://frank-apps.github.io/goiv-website/
+- 當沖計算機（`com.frank.TWDayTrade`）— https://frank-apps.github.io/twdaytrade-website/
